@@ -26,6 +26,5 @@ class JSONPriceGenerator:
 
         print("JSON file saved!")
 
-
 generator = JSONPriceGenerator()
 generator.save()

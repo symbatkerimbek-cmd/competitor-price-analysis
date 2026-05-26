@@ -23,8 +23,7 @@ class ShopAnalysis:
 
 
 analysis = ShopAnalysis("prices.json")
-
-
+а
 @app.get("/average-prices")
 def get_average_prices():
     return analysis.average_prices()

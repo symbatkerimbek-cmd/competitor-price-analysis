@@ -20,7 +20,6 @@ class PriceComparator:
 
         print("Average price:", avg)
 
-
 comparator = PriceComparator("prices.json")
 comparator.cheapest_product()
 comparator.average_price()

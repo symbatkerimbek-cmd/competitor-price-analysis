@@ -1,0 +1,102 @@
+[
+    {
+        "product": "Phone",
+        "shop": "MegaShop",
+        "price": 493089
+    },
+    {
+        "product": "Headphones",
+        "shop": "MegaShop",
+        "price": 332146
+    },
+    {
+        "product": "Headphones",
+        "shop": "ITMarket",
+        "price": 387067
+    },
+    {
+        "product": "Laptop",
+        "shop": "TechStore",
+        "price": 530447
+    },
+    {
+        "product": "Headphones",
+        "shop": "MegaShop",
+        "price": 67288
+    },
+    {
+        "product": "Tablet",
+        "shop": "MegaShop",
+        "price": 266193
+    },
+    {
+        "product": "Tablet",
+        "shop": "ITMarket",
+        "price": 680773
+    },
+    {
+        "product": "Phone",
+        "shop": "MegaShop",
+        "price": 431341
+    },
+    {
+        "product": "Headphones",
+        "shop": "MegaShop",
+        "price": 308667
+    },
+    {
+        "product": "Tablet",
+        "shop": "TechStore",
+        "price": 302114
+    },
+    {
+        "product": "Laptop",
+        "shop": "MegaShop",
+        "price": 84478
+    },
+    {
+        "product": "Tablet",
+        "shop": "TechStore",
+        "price": 490256
+    },
+    {
+        "product": "Tablet",
+        "shop": "MegaShop",
+        "price": 481302
+    },
+    {
+        "product": "Tablet",
+        "shop": "MegaShop",
+        "price": 59544
+    },
+    {
+        "product": "Headphones",
+        "shop": "TechStore",
+        "price": 465159
+    },
+    {
+        "product": "Headphones",
+        "shop": "TechStore",
+        "price": 665959
+    },
+    {
+        "product": "Tablet",
+        "shop": "TechStore",
+        "price": 216348
+    },
+    {
+        "product": "Laptop",
+        "shop": "TechStore",
+        "price": 401953
+    },
+    {
+        "product": "Laptop",
+        "shop": "MegaShop",
+        "price": 457511
+    },
+    {
+        "product": "Phone",
+        "shop": "TechStore",
+        "price": 397968
+    }
+]

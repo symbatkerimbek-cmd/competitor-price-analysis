@@ -15,7 +15,6 @@ class PriceAnalysis:
         print("\nGROUPBY RESULT:\n")
         print(grouped)
 
-
 analysis = PriceAnalysis("prices.json")
 analysis.statistics()
 analysis.group_by_data()

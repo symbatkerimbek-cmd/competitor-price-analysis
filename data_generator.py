@@ -1,6 +1,5 @@
 import json
 import random
-
 class DataGenerator:
     def __init__(self):
         self.products = ["Laptop", "Phone", "Tablet", "Headphones"]

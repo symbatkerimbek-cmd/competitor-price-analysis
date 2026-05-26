@@ -22,6 +22,5 @@ class PriceValidator:
             else:
                 print("Error:", item)
 
-
 validator = PriceValidator("prices.json")
 validator.validate()
